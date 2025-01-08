@@ -1,0 +1,1 @@
+I am developing a game that teaches people sign language using machine learning models. The game would have a rewards system, rewarding users based on how well they are able to identify and make signs.
